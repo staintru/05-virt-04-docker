@@ -53,6 +53,10 @@ See 'snap info docker' for additional versions.
 
 ### Решение
 
+![image](https://github.com/staintru/05-virt-04-docker/blob/main/12.png)
+
+![image](https://github.com/staintru/05-virt-04-docker/blob/main/11.png)
+
 ![image](https://github.com/staintru/05-virt-04-docker/blob/main/01.png)
 
 
@@ -81,6 +85,8 @@ See 'snap info docker' for additional versions.
 
 ### Решение
 
+![image](https://github.com/staintru/05-virt-04-docker/blob/main/13.png)
+
 ![image](https://github.com/staintru/05-virt-04-docker/blob/main/02.png)
 
 ![image](https://github.com/staintru/05-virt-04-docker/blob/main/03.png)
@@ -96,6 +102,9 @@ See 'snap info docker' for additional versions.
 6. Повторите SQL-запрос на сервере и приложите скриншот и ссылку на fork.
 
 ### Решение
+
+
+Сделан форк - https://github.com/staintru/shvirtd
 
 ![image](https://github.com/staintru/05-virt-04-docker/blob/main/04.png)
 
