@@ -53,10 +53,7 @@ See 'snap info docker' for additional versions.
 
 ### Решение
 
-
 ![image](https://github.com/staintru/05-virt-04-docker/blob/main/01.png)
-
-![image](https://github.com/staintru/05-virt-04-docker/blob/main/02.png)
 
 
 ## Задача 2 (*)
@@ -84,9 +81,12 @@ See 'snap info docker' for additional versions.
 
 ### Решение
 
+![image](https://github.com/staintru/05-virt-04-docker/blob/main/02.png)
+
 ![image](https://github.com/staintru/05-virt-04-docker/blob/main/03.png)
 
 ![image](https://github.com/staintru/05-virt-04-docker/blob/main/04.png)
+
 
 ## Задача 4
 1. Запустите в Yandex Cloud ВМ (вам хватит 2 Гб Ram).
@@ -97,8 +97,6 @@ See 'snap info docker' for additional versions.
 6. Повторите SQL-запрос на сервере и приложите скриншот и ссылку на fork.
 
 ### Решение
-
-
 
 ![image](https://github.com/staintru/05-virt-04-docker/blob/main/05.png)
 
@@ -119,9 +117,9 @@ See 'snap info docker' for additional versions.
 
 ### Решение
 
-
 ![image](https://github.com/staintru/05-virt-04-docker/blob/main/07.png)
 
 ![image](https://github.com/staintru/05-virt-04-docker/blob/main/08.png)
 
 ![image](https://github.com/staintru/05-virt-04-docker/blob/main/09.png)
+
