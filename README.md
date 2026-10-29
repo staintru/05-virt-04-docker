@@ -85,7 +85,6 @@ See 'snap info docker' for additional versions.
 
 ![image](https://github.com/staintru/05-virt-04-docker/blob/main/03.png)
 
-![image](https://github.com/staintru/05-virt-04-docker/blob/main/04.png)
 
 
 ## Задача 4
@@ -98,9 +97,13 @@ See 'snap info docker' for additional versions.
 
 ### Решение
 
-![image](https://github.com/staintru/05-virt-04-docker/blob/main/05.png)
+![image](https://github.com/staintru/05-virt-04-docker/blob/main/04.png)
+
+![image](https://github.com/staintru/05-virt-04-docker/blob/main/10.png)
 
 ![image](https://github.com/staintru/05-virt-04-docker/blob/main/06.png)
+
+![image](https://github.com/staintru/05-virt-04-docker/blob/main/05.png)
 
 
 
