@@ -1,0 +1,20 @@
+# вирт окружения
+venv/
+.venv/
+env/
+# Кеш
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+#  Сам git
+.git/
+.gitignore
+# Файлы os MS win
+.DS_Store
+Thumbs.db
+# DB и их логи
+*.sqlite3
+*.db
+*.log
